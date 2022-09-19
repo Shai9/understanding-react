@@ -1,3 +1,3 @@
-#Haiku
-- This is the starting point to creating my schools poems site called Haiku.
-- Under production.
+# Haiku
+- This is the starting point to creating my school's poems site called Haiku.
+- Still in the making.
